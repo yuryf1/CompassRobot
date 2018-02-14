@@ -1,0 +1,4 @@
+The robot goes in the right direction the right time.
+
+Klichko.Go(x,y)  //x - angle of motion (0-360 degree), y - time of motion;
+
